@@ -1,0 +1,42 @@
+_repo: Torok-nepmesek_64859
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Vámbéry, Ármin
+    aliases:
+    - Bamberger, Hermann
+    - Vambery, Armin
+    - Vamberger, Hermann
+    - Vamberi, Armin German
+    birthdate: 1832
+    deathdate: 1913
+    gutenberg_agent_id: '41340'
+    url: http://www.gutenberg.org/2009/agents/41340
+    wikipedia: http://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
+creator:
+  author:
+    agent_name: Kúnos, Ignácz
+    aliases:
+    - Kúnos, Ignaz
+    - Kunos, Ignacz
+    - Kunosh, I.
+    birthdate: 1862
+    deathdate: 1945
+    gutenberg_agent_id: '53061'
+    url: http://www.gutenberg.org/2009/agents/53061
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/K%C3%BAnos_Ign%C3%A1c
+    - https://en.wikipedia.org/wiki/Ign%C3%A1c_K%C3%BAnos
+description: ''
+gutenberg_issued: '2021-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64859'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Török népmesék
+url: http://www.gutenberg.org/ebooks/64859
