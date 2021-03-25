@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '41340'
     url: http://www.gutenberg.org/2009/agents/41340
     wikipedia: http://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kúnos, Ignácz
@@ -28,6 +31,8 @@ creator:
     - https://hu.wikipedia.org/wiki/K%C3%BAnos_Ign%C3%A1c
     - https://en.wikipedia.org/wiki/Ign%C3%A1c_K%C3%BAnos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64859#Torok-nepmesek
 gutenberg_issued: '2021-03-18'
 gutenberg_type: Text
 identifiers:
